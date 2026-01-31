@@ -1,0 +1,6 @@
+run,counts,pca_png,sheet_png
+run0_ld16_lr0.0003_wd0.0001_bs64_dn0.0,"[11, 5, 4, 8]",pca_scatter.png,cluster_contact_sheet.png
+run1_ld32_lr0.0003_wd0.0001_bs64_dn0.0,"[6, 7, 8, 7]",pca_scatter.png,cluster_contact_sheet.png
+run2_ld64_lr0.0003_wd0.0001_bs64_dn0.0,"[8, 4, 5, 11]",pca_scatter.png,cluster_contact_sheet.png
+run3_ld64_lr0.0001_wd0.0001_bs64_dn0.0,"[9, 5, 8, 6]",pca_scatter.png,cluster_contact_sheet.png
+run4_ld64_lr0.0003_wd0.0001_bs64_dn0.05,"[10, 6, 6, 6]",pca_scatter.png,cluster_contact_sheet.png
